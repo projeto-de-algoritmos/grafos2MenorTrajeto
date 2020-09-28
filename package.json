@@ -1,26 +1,26 @@
 {
-    "name": "graph",
-    "version": "1.0.0",
-    "description": "An graphs project",
-    "main": "server.js",
-    "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1",
-      "start": "nodemon server.js"
-    },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/projeto-de-algoritmos/grafos2NomeDoProjeto.git"
-    },
-    "author": "Arthur Sena e Ana Carolina Carvalho",
-    "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/projeto-de-algoritmos/grafos2NomeDoProjeto/"
-    },
-    "homepage": "https://github.com/projeto-de-algoritmos/grafos2NomeDoProjeto/",
-    "dependencies": {
-      "ejs": "^3.1.5",
-      "express": "^4.17.1",
-      "nodemon": "1.18.4"
-    }
+  "name": "graphs2",
+  "version": "1.0.0",
+  "description": "Graphs 2 project.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/projeto-de-algoritmos/grafos2NomeDoProjeto.git"
+  },
+  "author": "Ana Carolina e Arthur Sena",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/projeto-de-algoritmos/grafos2NomeDoProjeto/issues"
+  },
+  "homepage": "https://github.com/projeto-de-algoritmos/grafos2NomeDoProjeto#readme",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "express-ejs-layouts": "^2.5.0",
+    "nodemon": "^2.0.4",
+    "volleyball": "^1.5.1"
   }
-  
+}
