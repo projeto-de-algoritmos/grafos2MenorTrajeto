@@ -1,4 +1,4 @@
-# NomeDoTrabalho
+# Menor Trajeto
 
 **Número da Lista**: 2</br>
 **Conteúdo da Disciplina**: Grafos 2</br> 
@@ -27,12 +27,12 @@ No terminal do seu computador, siga os seguintes passos:
 #### Clone este repositório
 ```bash
 cd ~/your/directory/
-git clone https://github.com/projeto-de-algoritmos/grafos2NomeDoTrabalho/
+git clone https://github.com/projeto-de-algoritmos/grafos2MenorTrajeto/
 ````
 
 #### Vá para o diretório da aplicação
 ```bash
-cd ./grafos2NomeDoTrabalho/
+cd ./grafos2MenorTrajeto/
 ````
 
 #### Construa a aplicação
