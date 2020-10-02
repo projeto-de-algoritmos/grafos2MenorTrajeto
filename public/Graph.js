@@ -61,5 +61,3 @@ class Edge {
       this.w = w;
   }
 }
-
-module.exports = {Graph,Edge};

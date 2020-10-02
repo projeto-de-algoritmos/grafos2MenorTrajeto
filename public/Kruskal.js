@@ -1,8 +1,3 @@
-let All = require("./Graph")
-
-let Graph = All.Graph
-let Edge = All.Edge
-
 class Kruskal {
 
   constructor(gNodes, gEdges, gFrom, gTo, gWeight) {
@@ -55,12 +50,24 @@ class Kruskal {
     }
 
     i = 0;
+    var d = document;
+    let table = d.getElementById('table')
+    table.classList.remove("hide")
+
+  
     while (i < j) {
-      console.log(`${result[i].v1} -- ${result[i].v2} ( ${result[i++].w} )`);
+      // console.log(`${result[i].v1} -- ${result[i].v2} ( ${result[i++].w} )`);
+      var newRow = d.createElement('tr');
+      newRow.insertCell(0).innerHTML = result[i].v1
+      newRow.insertCell(1).innerHTML = result[i].v2
+      newRow.insertCell(2).innerHTML = result[i++].w
+      table.appendChild(newRow);
+
     }
-    console.log('time: ', cost);
+    var newRow = d.createElement('tr');
+    newRow.insertCell(0).innerHTML = ['time: ' + cost]
+    table.appendChild(newRow);
+    console.log('Tempo: ', cost);
   }
 
 }
-
-module.exports = Kruskal;
