@@ -53,7 +53,7 @@ docker-compose up
 ###### Pesquisa
 ![Alt text](https://github.com/projeto-de-algoritmos/grafos2MenorTrajeto/blob/master/media/img2.png "Pesquisa")
 ###### Resultado
-![Alt text](/https://github.com/projeto-de-algoritmos/grafos2MenorTrajeto/blob/master/media/img3.png "Resultado do Menor Caminho") 
+![Alt text](https://github.com/projeto-de-algoritmos/grafos2MenorTrajeto/blob/master/media/img3.png "Resultado do Menor Caminho") 
 
 ## Contribuintes 
 <br>
