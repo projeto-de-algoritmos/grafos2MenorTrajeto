@@ -1,7 +1,53 @@
 <!DOCTYPE html>
 <html lang="en">
-    <%- include('../partials/head.ejs') %>
+<%- include('../partials/head.ejs') %>
+<%- include('../partials/scripts.ejs') %>
+
 <body>
-    <h1>Hello World</h1>
+    <div class="container " style=" margin: 5% auto 0 auto;">
+
+        <div class="row justify-content-md-center">
+            <div class="col-10">
+
+
+
+                <h1 class="display-4 mb-5 text-center">Descubra o menor caminho até o seu destino!</h1>
+
+                <form>
+                    <div class="form-row">
+                        <div class="form-group col-lg-9">
+                            <label for="distance" class="mb-0">Distâncias:</label>
+                            <input type="text" class="form-control" id="distance" placeholder="Insira 7 distâncias dividas por espaço em branco"
+                                aria-label="Distâncias">
+                        </div>
+                        <div class="col-lg-3 text-right mt-4">
+                            <button type="button" class="btn  btn-block btn-dark"
+                                onclick="addWeight(document.getElementById('distance').value)">Adicionar</button>
+                        </div>
+                    </div>
+
+                </form>
+                <table class="table table-sm hide" id="table">
+                    <thead>
+                      <tr>
+                        <th scope="col">Origem</th>
+                        <th scope="col">Destino</th>
+                        <th scope="col">Distância</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                    
+                    </tbody>
+                  </table>
+            </div>
+        </div>
+    </div>
+
+    <script src="Kruskal.js"></script>
+    <script src="Graph.js"></script>
+    <script src="Index.js"></script>
+
 </body>
+<%- include('../partials/footer.ejs') %>
+
 </html>
