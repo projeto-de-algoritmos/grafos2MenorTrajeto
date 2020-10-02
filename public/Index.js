@@ -7,8 +7,6 @@ let gEdges = 7;
 let gFrom = ['MAD', 'MAD', 'MAD', 'MAD', 'XDT', 'OTP', 'FRA'];
 let gTo = ['XDT', 'OTP', 'FRA', 'BER', 'OTP', 'FRA', 'BER'];
 
-
-
 function addWeight(hi) {
   
   let gWeight = hi.split(' ')
