@@ -49,11 +49,11 @@ docker-compose up
 ## Screenshots
 
 ###### Menu inicial
-![Alt text](img1.jpg?raw=true "Tela Inicial")
+![Alt text](/media/img1.jpg?raw=true "Tela Inicial")
 ###### Pesquisa
-![Alt text](img2.jpg?raw=true "Pesquisa")
+![Alt text](/media/img2.jpg?raw=true "Pesquisa")
 ###### Resultado
-![Alt text](img3.jpg?raw=true "Resultado do Menor Caminho") 
+![Alt text](/media/img3.jpg?raw=true "Resultado do Menor Caminho") 
 
 ## Contribuintes 
 <br>
