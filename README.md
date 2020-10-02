@@ -49,14 +49,13 @@ docker-compose up
 ## Screenshots
 
 ###### Menu inicial
-![Alt text](/img1.jpg?raw=true "Tela Inicial")
+![Alt text](img1.jpg?raw=true "Tela Inicial")
 ###### Pesquisa
-![Alt text](/img2.jpg?raw=true "Pesquisa")
+![Alt text](img2.jpg?raw=true "Pesquisa")
 ###### Resultado
-![Alt text](/img3.jpg?raw=true "Resultado do Menor Caminho") 
+![Alt text](img3.jpg?raw=true "Resultado do Menor Caminho") 
 
 ## Contribuintes 
-
 <br>
 
 [<img src="https://avatars2.githubusercontent.com/u/9967427?s=400&u=1d2d6cb30ebe846fe9a275e5be16c1ee8cbc07c8&v=4" width=115 > <br> <sub> Ana Carvalho </sub>](https://github.com/anacarolcs)|[<img src="https://avatars1.githubusercontent.com/u/50152184?s=460&u=9ca6d8aed6e77621e231c799a7c4d596c3565cd7&v=4" width=115 > <br> <sub> Jonathan Oliveira </sub>](https://github.com/Jonathan-Oliveira) |
