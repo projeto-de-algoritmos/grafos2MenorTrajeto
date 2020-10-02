@@ -65,7 +65,7 @@ class Kruskal {
 
     }
     var newRow = d.createElement('tr');
-    newRow.insertCell(0).innerHTML = ['time: ' + cost]
+    newRow.insertCell(0).innerHTML = ['Tempo: ' + cost]
     table.appendChild(newRow);
     console.log('Tempo: ', cost);
   }
