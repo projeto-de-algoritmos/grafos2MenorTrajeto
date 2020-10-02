@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/projeto-de-algoritmos/grafos2NomeDoProjeto.git"
   },
-  "author": "Ana Carolina e Arthur Sena",
+  "author": "Ana Carolina e Jonathan Oliveira",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/projeto-de-algoritmos/grafos2NomeDoProjeto/issues"
@@ -20,6 +20,7 @@
     "ejs": "^3.1.5",
     "express": "^4.17.1",
     "express-ejs-layouts": "^2.5.0",
+    "fs": "0.0.1-security",
     "nodemon": "^2.0.4",
     "volleyball": "^1.5.1"
   }
