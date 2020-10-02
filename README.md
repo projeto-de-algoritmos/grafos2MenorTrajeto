@@ -49,11 +49,11 @@ docker-compose up
 ## Screenshots
 
 ###### Menu inicial
-![Alt text](/media/img1.jpg?raw=true "Tela Inicial")
+![Alt text](https://github.com/projeto-de-algoritmos/grafos2MenorTrajeto/blob/master/media/img1.png "Tela Inicial")
 ###### Pesquisa
-![Alt text](/media/img2.jpg?raw=true "Pesquisa")
+![Alt text](https://github.com/projeto-de-algoritmos/grafos2MenorTrajeto/blob/master/media/img2.png "Pesquisa")
 ###### Resultado
-![Alt text](/media/img3.jpg?raw=true "Resultado do Menor Caminho") 
+![Alt text](/https://github.com/projeto-de-algoritmos/grafos2MenorTrajeto/blob/master/media/img3.png "Resultado do Menor Caminho") 
 
 ## Contribuintes 
 <br>
