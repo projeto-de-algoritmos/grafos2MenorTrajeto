@@ -10,6 +10,7 @@
 | 19/0063441  |  Ana Carolina Carvalho |
 
 ## Sobre 
+O projeto consiste em usar o algoritmo de kruskal para mapear o menor caminho entre os aeroportos, pré-definidos pelos desenvolvedores, no qual o usuário irá colocar sete valores numéricos que corresponderá com as distâncias entre alguns aeroportos, o algoritmo mostrará o menor trajeto e o tempo para percorrer todos os aeroportos.
 
 
 ## Instalação 
@@ -54,6 +55,10 @@ docker-compose up
 ![Alt text](https://github.com/projeto-de-algoritmos/grafos2MenorTrajeto/blob/master/media/img2.png "Pesquisa")
 ###### Resultado
 ![Alt text](https://github.com/projeto-de-algoritmos/grafos2MenorTrajeto/blob/master/media/img3.png "Resultado do Menor Caminho") 
+
+## Apresentação
+O [Video](https://github.com/projeto-de-algoritmos/grafos2MenorTrajeto/blob/master/media/apresentacao.mp4)
+ com a apresentação está localizado dentro da pasta media
 
 ## Contribuintes 
 <br>
