@@ -50,11 +50,11 @@ docker-compose up
 ## Screenshots
 
 ###### Menu inicial
-![Alt text](https://github.com/projeto-de-algoritmos/grafos2MenorTrajeto/blob/master/media/img1.png "Tela Inicial")
+![Alt text](https://github.com/projeto-de-algoritmos/grafos2MenorTrajeto/blob/master/media/image1.png "Tela Inicial")
 ###### Pesquisa
-![Alt text](https://github.com/projeto-de-algoritmos/grafos2MenorTrajeto/blob/master/media/img2.png "Pesquisa")
+![Alt text](https://github.com/projeto-de-algoritmos/grafos2MenorTrajeto/blob/master/media/image2.png "Pesquisa")
 ###### Resultado
-![Alt text](https://github.com/projeto-de-algoritmos/grafos2MenorTrajeto/blob/master/media/img3.png "Resultado do Menor Caminho") 
+![Alt text](https://github.com/projeto-de-algoritmos/grafos2MenorTrajeto/blob/master/media/image3.png "Resultado do Menor Caminho") 
 
 ## Apresentação
 O [Video](https://github.com/projeto-de-algoritmos/grafos2MenorTrajeto/blob/master/media/apresentacao.mp4)
