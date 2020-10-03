@@ -40,10 +40,8 @@ class Kruskal {
       let root1 = graph.find(subsets, edge.v1);
       let root2 = graph.find(subsets, edge.v2);
 
-      // if the nodes doesn't create a cycle then we add the edge to final subgraph
       if (root1 != root2) {
         result[j++] = edge;
-        // update the total weight of the subgraph
         cost += edge.w;
         graph.union(subsets, root1, root2);
       }
@@ -56,7 +54,6 @@ class Kruskal {
 
   
     while (i < j) {
-      // console.log(`${result[i].v1} -- ${result[i].v2} ( ${result[i++].w} )`);
       var newRow = d.createElement('tr');
       newRow.insertCell(0).innerHTML = result[i].v1
       newRow.insertCell(1).innerHTML = result[i].v2
